@@ -3,13 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/suscriptor/Suscriptor.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/patronobservador/PatronObservadorMain.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/publicador/SemaforoPublicador.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/publicador/Publicador.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/patronobservador/EstadoSemaforo.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/suscriptor/SemaforoPeatonal.java</file>
-            <file>file:/C:/Users/aulasingenieria/Documents/NetBeansProjects/PatronObservadorMain/src/suscriptor/CarroSuscriptor.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/patronobservador/EstadoSemaforo.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/publicador/SemaforoPublicador.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/suscriptor/Suscriptor.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/publicador/Publicador.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/suscriptor/SemaforoPeatonal.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/suscriptor/CarroSuscriptor.java</file>
+            <file>file:/C:/Users/User/Documents/GitHub/PatronesSoftware/PatronObservadorMain/src/patronobservador/PatronObservadorMain.java</file>
         </group>
     </open-files>
 </project-private>
