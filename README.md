@@ -20,5 +20,5 @@ This repository contains examples of commonly used **Software Design Patterns** 
 Clone this repository to explore and experiment with the patterns:
 
 ```bash
-git clone https://github.com/jfzulu/recursos.git
-cd recursos
+git clone https://github.com/jfzulu/Software-Design-Patterns.git
+cd Software-Design-Patterns
